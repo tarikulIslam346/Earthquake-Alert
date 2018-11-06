@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1"
+    android:padding="40dp"
+    >
+    <TableRow>
+        <TextView
+            android:text="Inst. name"
+            android:padding="3dip"
+            android:textSize="24dp" />
+        <TextView
+            android:text="phone no"
+            android:gravity="right"
+            android:padding="3dip"
+            android:textSize="24dp"
+            android:textIsSelectable="true" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="Fire service"
+            android:padding="3dip" />
+        <TextView
+            android:text="01710950044"
+            android:gravity="right"
+            android:padding="3dip" />
+        <ImageButton
+            android:id="@+id/button"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@android:drawable/ic_menu_call" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="Army HQ"
+            android:padding="3dip" />
+        <TextView
+            android:text="01710950044"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="Navy"
+            android:padding="3dip" />
+        <TextView
+            android:text="01710950044"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="Airforece"
+            android:padding="3dip" />
+        <TextView
+            android:text="01710950044"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+</TableLayout>

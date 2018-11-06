@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1"
+    android:padding="40dp"
+    >
+
+    <TableRow>
+        <TextView
+            android:text="Rank"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Country"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Location"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Cost"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Date"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Magnitude"
+            android:padding="10dip"
+            android:textSize="10dp"
+            />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="1"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Chile"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Valdivia"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="$3"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="22/5/60"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="9.5"
+            android:padding="10dip"
+            android:textSize="10dp"
+            />
+
+    </TableRow>
+    <TableRow>
+    <TextView
+        android:text="2"
+        android:padding="10dip"
+        android:textSize="10dp" />
+    <TextView
+        android:text="USA"
+        android:padding="10dip"
+        android:textSize="10dp" />
+    <TextView
+        android:text="Alaska"
+        android:padding="10dip"
+        android:textSize="10dp" />
+    <TextView
+        android:text="$1.45"
+        android:padding="10dip"
+        android:textSize="10dp" />
+    <TextView
+        android:text="27/3/60"
+        android:padding="10dip"
+        android:textSize="10dp" />
+    <TextView
+        android:text="9.2"
+        android:padding="10dip"
+        android:textSize="10dp"
+        />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="3"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Indonesa"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Sumatra"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="$1.2"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="26/12/04"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="9.1"
+            android:padding="10dip"
+            android:textSize="10dp"
+            />
+    </TableRow>
+
+<TableRow>
+<TextView
+    android:text="4"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="Japan"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="Sumatra"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="$1.31"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="11/3/11"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="9.0"
+    android:padding="10dip"
+    android:textSize="10dp"
+    />
+</TableRow>
+
+<TableRow>
+<TextView
+    android:text="5"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="Indonesa"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="Sumatra"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="$1.45"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="26/12/04"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="9.1"
+    android:padding="10dip"
+    android:textSize="10dp"
+    />
+</TableRow>
+
+<TableRow>
+<TextView
+    android:text="6"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="Japan"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="Sumatra"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="$1.45"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="26/12/04"
+    android:padding="10dip"
+    android:textSize="10dp" />
+<TextView
+    android:text="9.1"
+    android:padding="10dip"
+    android:textSize="10dp"
+    />
+</TableRow>
+    <TableRow>
+        <TextView
+            android:text="7"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Japan"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Sumatra"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="$1.45"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="26/12/04"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="9.1"
+            android:padding="10dip"
+            android:textSize="10dp"
+            />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="8"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Japan"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Sumatra"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="$1.45"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="26/12/04"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="9.1"
+            android:padding="10dip"
+            android:textSize="10dp"
+            />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="9"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Japan"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Sumatra"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="$1.45"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="26/12/04"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="9.1"
+            android:padding="10dip"
+            android:textSize="10dp"
+            />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="10"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Japan"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="Sumatra"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="$1.45"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="26/12/04"
+            android:padding="10dip"
+            android:textSize="10dp" />
+        <TextView
+            android:text="9.1"
+            android:padding="10dip"
+            android:textSize="10dp"
+            />
+    </TableRow>
+
+</TableLayout>
